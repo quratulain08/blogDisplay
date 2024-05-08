@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "title": "10 Tips for Productive Remote Work",
+      "author": "Elizabeth",
+      "date": "2024-04-25",
+      "content": "In the wake of the COVID-19 pandemic, remote work has become the new norm for many professionals..."
+    },
+    {
+      "id": 2,
+      "title": "The Benefits of Meditation: A Beginner's Guide",
+      "author": "Ian somerholder",
+      "date": "2024-04-20",
+      "content": "Meditation is a powerful practice that has been used for centuries to promote relaxation, reduce stress..."
+    },
+    {
+      "id": 3,
+      "title": "Exploring the Wonders of Deep Learning",
+      "author": "Alex Johnson",
+      "date": "2024-04-15",
+      "content": "Deep learning is a subset of artificial intelligence (AI) that focuses on training neural networks..."
+    },
+    {
+      "id": 11,
+      "title": "The Importance of Time Management",
+      "author": "John Smith",
+      "date": "2024-05-01",
+      "content": "Effective time management is crucial for maximizing productivity and achieving success in both personal and professional endeavors..."
+    },
+    {
+      "id": 12,
+      "title": "Healthy Habits for a Happy Life",
+      "author": "Rachel Adams",
+      "date": "2024-05-05",
+      "content": "Adopting healthy habits can significantly improve your quality of life and overall happiness. Discover simple strategies for a happier, healthier you..."
+    },
+    {
+      "id": 4,
+      "title": "The Art of Public Speaking: Overcoming Stage Fright",
+      "author": "Emily Brown",
+      "date": "2024-04-10",
+      "content": "Public speaking can be a daunting task for many people, but with practice and preparation, it is possible to overcome stage fright..."
+    },
+    {
+      "id": 5,
+      "title": "Mastering JavaScript: Tips and Tricks for Beginners",
+      "author": "Chris Wilson",
+      "date": "2024-04-05",
+      "content": "JavaScript is a versatile programming language commonly used for web development. Here are some tips and tricks to help beginners master JavaScript..."
+    },
+    {
+      "id": 6,
+      "title": "The Power of Positive Thinking: Transform Your Life Today",
+      "author": "Sarah Johnson",
+      "date": "2024-04-01",
+      "content": "Positive thinking can have a profound impact on your life, improving your mental well-being, relationships, and overall happiness..."
+    },
+    {
+      "id": 7,
+      "title": "The Science of Sleep: Understanding Sleep Cycles and How to Improve Sleep Quality",
+      "author": "Michael Clark",
+      "date": "2024-03-27",
+      "content": "Sleep is essential for overall health and well-being. Learn about the science of sleep cycles and discover tips to improve your sleep quality..."
+    },
+    {
+      "id": 8,
+      "title": "Unlocking Creativity: Strategies for Overcoming Creative Blocks",
+      "author": "Emma Taylor",
+      "date": "2024-03-22",
+      "content": "Creative blocks can be frustrating, but there are strategies you can use to overcome them and unlock your creativity..."
+    },
+    {
+      "id": 9,
+      "title": "Healthy Eating Habits: Tips for a Balanced Diet",
+      "author": "David Martinez",
+      "date": "2024-03-17",
+      "content": "Maintaining a balanced diet is key to good health. Here are some tips for establishing healthy eating habits..."
+    },
+    {
+      "id": 10,
+      "title": "The Future of Artificial Intelligence: Trends to Watch",
+      "author": "Sophia Lee",
+      "date": "2024-03-12",
+      "content": "Artificial intelligence (AI) is advancing rapidly, shaping the future of various industries. Explore the latest trends and innovations in AI..."
+    }
+  ]
+  

@@ -1,0 +1,71 @@
+
+.App {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: #EEF7FF; 
+}
+
+.blog-title {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-align: center;
+  color: #4D869C;
+  text-transform: uppercase; 
+  letter-spacing: 2px; 
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1); 
+}
+
+.blog-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.box {
+  background-color: #ffffff; /* Box background color */
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  cursor: pointer;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.box:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.box h2 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+  color: #7AB2B2; 
+  text-transform: uppercase; 
+}
+
+.box p {
+  margin: 10px 0;
+  color: #666; 
+  font-size: 1rem; 
+}
+
+.box .content {
+  display: none; 
+  color: #333; 
+  font-size: 1rem; 
+}
+
+.box.expanded .content {
+  display: block; 
+  margin-top: 10px;
+}
+
+
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
